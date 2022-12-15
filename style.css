@@ -7,17 +7,6 @@ body{
     max-width: 65ch;
 }
 
-@media only screen and (max-width: 600px) {
-    body {
-       padding-left: 10%;
-    }
-    .img_period{
-        width:16em;
-        height:auto;
-        float: center;
-    }
- }
-
 p{
     block-size: max-content;
 }
@@ -81,3 +70,16 @@ a.Bottom_link {
     left: 2em;
     color: black;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    body {
+       padding-left: 10%;
+    }
+    .img_period{
+        width:16em;
+        height:auto;
+        float: center;
+    }
+ }
