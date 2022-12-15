@@ -8,14 +8,14 @@ body{
 }
 
 @media only screen and (max-width: 950px) {
-    .body {
+    body {
        padding-left: 10%;
        padding-right: 10%;
     }
  }
 
  @media only screen and (max-width: 600px) {
-    .body {
+    body {
        padding-left: 10%;
        padding-right: 10%;
     }
@@ -62,13 +62,13 @@ p{
 
 @media only screen and (max-width: 950px) {
     .img_square{
-        width:100%;
+        width:110%;
         height:auto;
         float: right;
     }
     
     .img_43{
-        width:100%;
+        width:110%;
         height:auto;
         float: right;  
     }
@@ -77,13 +77,13 @@ p{
 
 @media only screen and (max-width: 600px){
     .img_square{
-        width:100%;
+        width:110%;
         height:auto;
         float: right;
     }
     
     .img_43{
-        width:100%;
+        width:110%;
         height:auto;
         float: right;  
     } 
