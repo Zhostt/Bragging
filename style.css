@@ -84,7 +84,7 @@ a.Bottom_link {
     .Bottom_link text{
         font-size: 0;
     }
-    .Bottom_link img{
+    .button{
         float: left;
     }
  }
