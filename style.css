@@ -55,15 +55,15 @@ p{
 
 @media only screen and (max-width: 950px) {
     .img_square{
-        width:auto;
+        width:100%;
         height:auto;
-        float: center;
+        float: right;
     }
     
     .img_43{
-        width:auto;
+        width:100%;
         height:auto;
-        float: center;  
+        float: right;  
     }
  }
 
