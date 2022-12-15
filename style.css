@@ -72,8 +72,13 @@ a.Bottom_link {
     color: black;
 }
 
- @media only screen and (max-width: 600px) {
+ @media only screen and (max-width: 950px) {
     body {
        padding-left: 5%;
+    }
+    .img_period{
+        width: 5em;
+        height: 5em;
+        float: right;
     }
  }
