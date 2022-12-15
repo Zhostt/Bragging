@@ -1,85 +1,84 @@
-body{
-    font-family:sans-serif;
-    font-size:100%;
-    margin: 0 auto;
-    padding: 2em;
-    overflow:scroll;
-    max-width: 65ch;
-}
-
-
-p{
-    block-size: max-content;
-}
-
-.sup{
-    font-size: 2.5em;
-}
-
-.nav_logo{
-    width: 1em;
-    height:1em;
-}
-
-.my_link{
-    font-size: 1.5em;
-}
-
-.period_header h2{
-    font-size: 1.5em;
-    padding-top: 2em;
-    padding-bottom: 1em;
-    position: relative;
-    top: 1em;
-    left: 2em;
-}
-
-
-.img_period{
-    width:16em;
-    height:auto;
-    float: right;
-}
-
-span.emoji{
-    font-size: 2em;
-    vertical-align: text-center;
-    line-height:0;
-}
-
-.period_text .numbered_list li{
-    line-height: 1.5em;
-}
-
-a.Bottom_link {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: clip;
-    text-decoration: none;
-    padding-top: 10em;
-}
-
-.Bottom_link img{
-    margin-top: 8em;
-    margin-left: 10%;
-    line-height: 0em;
-}
-
-.Bottom_link text{
-    position: relative;
-    top: -3em;
-    left: 1em;
-    color: black;
-}
-
- @media only screen and (max-width: 950px) {
-    body {
-       padding-left: 20%;
+    body{
+        font-family:sans-serif;
+        font-size:100%;
+        margin: 0 auto;
+        padding: 2em;
+        overflow:scroll;
+        max-width: 65ch;
     }
-    img .img_period{
-        width: auto ;
-        max-width: 100% ;
-        height: auto ;
-        align: left;
+
+
+    p{
+        block-size: max-content;
     }
- }
+
+    .sup{
+        font-size: 2.5em;
+    }
+
+    .nav_logo{
+        width: 1em;
+        height:1em;
+    }
+
+    .my_link{
+        font-size: 1.5em;
+    }
+
+    .period_header h2{
+        font-size: 1.5em;
+        padding-top: 2em;
+        padding-bottom: 1em;
+        position: relative;
+        top: 1em;
+        left: 2em;
+    }
+
+
+    .img_period{
+        width:16em;
+        height:auto;
+        float: right;
+    }
+
+    span.emoji{
+        font-size: 2em;
+        vertical-align: text-center;
+        line-height:0;
+    }
+
+    .period_text .numbered_list li{
+        line-height: 1.5em;
+    }
+
+    a.Bottom_link {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: clip;
+        text-decoration: none;
+        padding-top: 10em;
+    }
+
+    .Bottom_link img{
+        margin-top: 8em;
+        margin-left: 10%;
+        line-height: 0em;
+    }
+
+    .Bottom_link text{
+        position: relative;
+        top: -3em;
+        left: 1em;
+        color: black;
+    }
+
+    @media only screen and (max-width: 950px) {
+        body {
+        padding-left: 5%;
+        }
+        .img_period {
+            width: auto ;
+            max-width: 100% ;
+            height: auto ;
+        }
+    }
