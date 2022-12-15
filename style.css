@@ -7,6 +7,7 @@ body{
     max-width: 65ch;
 }
 
+
 p{
     block-size: max-content;
 }
@@ -71,15 +72,8 @@ a.Bottom_link {
     color: black;
 }
 
-
-
-@media only screen and (max-width: 600px) {
+ @media only screen and (max-width: 600px) {
     body {
-       padding-left: 10%;
-    }
-    .img_period{
-        width:auto;
-        height:auto;
-        float: right;
+       padding-left: 5%;
     }
  }
