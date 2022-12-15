@@ -7,6 +7,13 @@ body{
     max-width: 65ch;
 }
 
+@media only screen and (max-width: 950px) {
+    .body {
+       padding-left: 10%;
+       padding-right: 10%;
+    }
+ }
+
 p{
     block-size: max-content;
 }
