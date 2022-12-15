@@ -14,6 +14,13 @@ body{
     }
  }
 
+ @media only screen and (max-width: 600px) {
+    .body {
+       padding-left: 10%;
+       padding-right: 10%;
+    }
+ }
+
 p{
     block-size: max-content;
 }
