@@ -2,6 +2,7 @@ body{
     font-family:sans-serif;
     font-size:100%;
     margin: 0 auto;
+    padding: 2em;
     overflow:scroll;
     max-width: 65ch;
 }
