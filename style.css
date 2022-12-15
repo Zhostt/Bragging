@@ -60,6 +60,35 @@ p{
     float: right;  
 }
 
+@media only screen and (max-width: 950px) {
+    .img_square{
+        width:100%;
+        height:auto;
+        float: right;
+    }
+    
+    .img_43{
+        width:100%;
+        height:auto;
+        float: right;  
+    }
+ }
+
+
+@media only screen and (max-width: 600px){
+    .img_square{
+        width:100%;
+        height:auto;
+        float: right;
+    }
+    
+    .img_43{
+        width:100%;
+        height:auto;
+        float: right;  
+    } 
+}
+
 span.emoji{
     font-size: 2em;
     vertical-align: text-center;
