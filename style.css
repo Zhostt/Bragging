@@ -76,10 +76,9 @@ a.Bottom_link {
     body {
        padding-left: 5%;
     }
-    .img_period{
+    img{
             width: auto ;
             max-width: 100% ;
             height: auto ;
-            float: right;
     }
  }
