@@ -81,4 +81,7 @@ a.Bottom_link {
         max-width: 100% ;
         height: auto ;
     }
+    .Bottom_link {
+        margin-left: -5%;
+    }
  }
