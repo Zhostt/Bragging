@@ -72,7 +72,7 @@ a.Bottom_link {
     color: black;
 }
 
- @media only screen and (max-width: 950px) {
+ @media only screen and (max-width: 600px) {
     body {
        padding-left: 5%;
     }
