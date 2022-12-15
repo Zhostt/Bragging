@@ -9,8 +9,12 @@ body{
 
 @media only screen and (max-width: 600px) {
     body {
-       padding-left: 20%;
-       padding-right: 20%;
+       padding-left: 10%;
+    }
+    .img_period{
+        width:16em;
+        height:auto;
+        float: center;
     }
  }
 
@@ -41,18 +45,11 @@ p{
 }
 
 
-.img_square{
+.img_period{
     width:16em;
     height:auto;
     float: right;
 }
-
-.img_43{
-    width:16em;
-    height:auto;
-    float: right;  
-}
-
 
 span.emoji{
     font-size: 2em;
